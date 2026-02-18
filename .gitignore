@@ -1,1 +1,5 @@
 .env
+about_dataset.txt
+assignment.txt
+schemas.txt
+*.pdf
