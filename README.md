@@ -17,7 +17,6 @@ A comprehensive machine learning project implementing collaborative filtering mo
 - [Results & Performance](#results--performance)
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ---
 
@@ -534,23 +533,3 @@ conda create -n netflix-rec python=3.10
 - Scikit-Learn TruncatedSVD: https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
 - PySpark MLlib ALS: https://spark.apache.org/docs/latest/ml-collaborative-filtering.html
 - NetworkX Graph Analysis: https://networkx.org/
-
----
-
-## License
-
-This project uses the Netflix Prize dataset under their research license. See `about_dataset.txt` for full license terms.
-
-**Attribution Required**: If you use this project, acknowledge the Netflix Prize dataset.
-
----
-
-## Contact & Support
-
-For questions or issues with this project, please refer to:
-
-- Dataset documentation: [about_dataset.txt](about_dataset.txt)
-- Project assignment: [assignment.txt](assignment.txt)
-- Database schemas: [schemas.txt](schemas.txt)
-
-**Last Updated**: February 2026
