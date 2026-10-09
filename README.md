@@ -149,7 +149,8 @@ matplotlib        # Data visualization
 ### Step 1: Clone Repository
 
 ```bash
-cd /path/to/Bu\ Lina/netflix/modelling
+git clone https://github.com/harrymardika/netflix-modelling.git
+cd netflix-modelling
 ```
 
 ### Step 2: Create Virtual Environment
